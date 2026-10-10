@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="primary_text">#FF1976D2</color>
-    <color name="secondary_text">#FF666666</color>
-    <color name="button_color">#FF4CAF50</color>
-    <color name="background_color">#FFF5F5F5</color>
+    <color name="bg">#0f1117</color>
+    <color name="surface">#1e2130</color>
+    <color name="toolbar_bg">#161824</color>
+    <color name="accent">#4f8ef7</color>
+    <color name="text_primary">#e8eaf0</color>
+    <color name="text_secondary">#7b8099</color>
 </resources>

@@ -1,6 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sample App</string>
-    <string name="welcome_message">Welcome to Sample App!</string>
-    <string name="click_me">Click Me!</string>
-    <string name="initial_count">Button clicked 0 times</string>
+    <string name="app_name">Kraken Bot</string>
+    <string name="settings_title">Configuración</string>
 </resources>
